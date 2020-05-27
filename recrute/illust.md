@@ -43,3 +43,9 @@ jpg,png
 ## 2.DMで直接運営に送る
 運営メンバーのリプライやDMにて画像・イラストをお送りください。  
 各ストレージサービス(dropboxやGoogle drive)、ギガファイル便などを利用いただいても構いません。
+
+# Q&A
+
+## イラストの対象年齢に指定はありますか
+twitchの[裸体表現、ポルノグラフィーおよびその他の性的なコンテンツ
+](https://www.twitch.tv/p/ja-jp/legal/community-guidelines/sexualcontent/)をよくご確認の上、イラストの提出をお願いします。  
