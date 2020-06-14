@@ -1,3 +1,8 @@
+# Day1
+
+2020年6月20日(土) 17:00 ～ 25:00  
+
+# Timetable
 
 | Time  | DJ | Belongs To | Twitter |
 | ------ | ------ | ------ | ------ |
