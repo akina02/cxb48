@@ -10,7 +10,7 @@
 | 17:30 | Re:Xa |  | [@Lilly_anell94](https://twitter.com/Lilly_anell94) |
 | 18:00 | しんくまさん | テクノワールドREV.勢 | [@thin_kuma](https://twitter.com/thin_kuma) |
 | 18:30 | mitwa | | [@mtw_f](https://twitter.com/mtw_f) |
-| 19:00 | ビーツID:79724952 |  |  |
+| 19:00 | ビーツID:79724958 |  |  |
 | 19:30 | MiYAjY | M.E.L.Trackers | [@MiYAjY_quasar](https://twitter.com/MiYAjY_quasar) |
 | 20:00 | DJ Indigo | クロビナイト <br> Cafe de Game Music <br> 錦糸町音ゲーナイト| [@dj_indigovision](https://twitter.com/dj_indigovision) |
 | 20:30 | カナヅチ | | [@kndt31](https://twitter.com/kndt31) |
