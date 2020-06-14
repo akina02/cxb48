@@ -20,5 +20,5 @@
 | 22:30 | まさかず | | [@INY_S](https://twitter.com/INY_S) |
 | 23:00 | みるきぃ | | [@milcky76573](https://twitter.com/milcky76573) |
 | 23:30 | SOALAR | 8 Groove Records | [@masyamusic](https://twitter.com/masyamusic) |
-| 24:00 | ひぃ / Hiy | INF HARDCORE Records ([@INFHARDCORE](https://twitter.com/INFHARDCORE)) | [@_mercier_](https://twitter.com/_mercier_) |
+| 24:00 | ひぃ / Hiy | INF HARDCORE Records ([@INFHARDCORE](https://twitter.com/INFHARDCORE)) | [@masyamusic](https://twitter.com/masyamusic) |
 | 24:30 | ふくろー | BeatJunction | [@Fuku_Sh](https://twitter.com/Fuku_Sh) |
