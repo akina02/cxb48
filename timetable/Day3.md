@@ -12,7 +12,7 @@
 | 18:30 | 碧蒼 | | [@ibento_tanoc_na](https://twitter.com/ibento_tanoc_na) |
 | 19:00 | ヘイボン |  | [@he_pon360](https://twitter.com/he_pon360)  |
 | 19:30 | peczero |  | [@peczero](https://twitter.com/peczero) |
-| 20:00 | nnousekAnkAn | SHOXXXX | [@___nnunn___](https://twitter.com/___nnunn___) |
+| 20:00 | nnousekAnkAn | SHOXXXX | [@\_\_\_nnunn\_\_\_](https://twitter.com/___nnunn___) |
 | 20:30 | ScaLL | BouncY <br> アニふぇすKOFU | [@DR_Calcium](https://twitter.com/DR_Calcium) |
 | 21:00 | LV77 aka ユタカ | SHOXXXX <br> HEADPHONE JACK | [@yutaka_lv77](https://twitter.com/yutaka_lv77) |
 | 21:30 | Xeria | wavforme | [@Xeria_7](https://twitter.com/Xeria_7) |
