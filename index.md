@@ -17,8 +17,8 @@ CROSS×BEATS, crossbeats REV.のプレイヤーたちによる超大型mix配信
 
 # タイムテーブル
 - [Day1](/timetable/Day1.md)
-- [Day1](/timetable/Day2.md)
-- [Day1](/timetable/Day3.md)  
+- [Day2](/timetable/Day2.md)
+- [Day3](/timetable/Day3.md)  
 
 # ハッシュタグについて
 [#CXB48](https://twitter.com/search?q=%23CXB48) です。  
