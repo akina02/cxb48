@@ -12,8 +12,8 @@ CROSS×BEATS, crossbeats REV.のプレイヤーたちによる超大型mix配信
 - 2020年6月27日(土) 17:00 ～ 25:00  
 
 # 配信について
-配信はTwitchで行う予定です。  
-配信アカウントが決定次第、告知をいたします。
+[https://www.twitch.tv/akina_plus](https://www.twitch.tv/akina_plus) で行います。  
+イベント開始5分前くらいには配信を開始する予定です。
 
 # タイムテーブル
 - [Day1](/timetable/Day1.md)
