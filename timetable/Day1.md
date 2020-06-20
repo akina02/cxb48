@@ -12,7 +12,7 @@
 | 18:30 | [mitwa](../setlist/day1/04_mitwa.md) | | [@mtw_f](https://twitter.com/mtw_f) |
 | 19:00 | [ビーツID:79724958](../setlist/day1/05_79724958.md) |  |  |
 | 19:30 | [MiYAjY](../setlist/day1/06_MiYAjY.md) | M.E.L.Trackers | [@MiYAjY_quasar](https://twitter.com/MiYAjY_quasar) |
-| 20:00 | DJ Indigo | クロビナイト <br> Cafe de Game Music <br> 錦糸町音ゲーナイト| [@dj_indigovision](https://twitter.com/dj_indigovision) |
+| 20:00 | [DJ Indigo](../setlist/day1/07_Indigo) | クロビナイト <br> Cafe de Game Music <br> 錦糸町音ゲーナイト| [@dj_indigovision](https://twitter.com/dj_indigovision) |
 | 20:30 | カナヅチ | | [@kndt31](https://twitter.com/kndt31) |
 | 21:00 | wand07 | | [@wand07](https://twitter.com/wand07) |
 | 21:30 | yukai | | [@hope_09_25](https://twitter.com/hope_09_25) |
