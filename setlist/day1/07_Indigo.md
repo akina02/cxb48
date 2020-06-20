@@ -1,4 +1,4 @@
-# ビーツID:DJ Indigo
+# DJ Indigo
 
 | No. | Music  | Artist | 主な購入・視聴URL |
 | ------ | ------ | ------ | ------ |
