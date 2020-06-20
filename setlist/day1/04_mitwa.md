@@ -14,7 +14,7 @@
 |10| Liar | zts | [iTunes](https://music.apple.com/jp/album/djmax-respect-vol-2-original-soundtrack/1379810355/){:target="_blank"} |
 |11| Vanity Angel | Fixx | [Amazon](https://www.amazon.co.jp/dp/B00007M8PU/){:target="_blank"} |
 |12| Strayer | Taishi | [Amazon](https://www.amazon.co.jp/dp/B01MU7Y8D3){:target="_blank"} |
-|13| EternuS | Sanxion7 | [bandcamp](https://sanxion7.com/track/eternus)]|
+|13| EternuS | Sanxion7 | [bandcamp](https://sanxion7.com/track/eternus)|
 |14| Phase Angel | OCOT | [Amazon](https://www.amazon.co.jp/dp/B01MU7Y8D3){:target="_blank"} |
 |15| dirty digital | kors k | [iTunes](https://music.apple.com/jp/album/ways-for-libereation/360933415){:target="_blank"} |
 |16| Lotus Love | Maozon | [DIVERSE DIRECT](Thttps://diverse.direct/diverse-system/dvsp-0210/){:target="_blank"} |
