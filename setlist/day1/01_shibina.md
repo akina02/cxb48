@@ -2,7 +2,7 @@
 | No. | Music  | Artist | 主な購入・視聴URL |
 | ------ | ------ | ------ | ------ |
 |1| Azitate | void | [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=137063){:target="_blank"} |
-
+|2| Red Five | Cranky | [TANO*C STORE](https://www.tanocstore.net/shopdetail/000000002334/){:target="_blank"} |
 |3| The Epic | Cranky | [TANO*C STORE](https://www.tanocstore.net/shopdetail/000000001861/){:target="_blank"} |
 |4| "Moonlight" Sonata 3rd Movt. | Ludwig van Beethoven / Cranky | [TANO*C STORE](https://www.tanocstore.net/shopdetail/000000002334/){:target="_blank"} |
 |5| アレルヤ | HAKKYOU-KUN feat.玉置成実 | [Amazon](https://www.amazon.co.jp/dp/B01MU7Y8D3){:target="_blank"} |
