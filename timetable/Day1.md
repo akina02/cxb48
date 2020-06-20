@@ -8,7 +8,7 @@
 | ------ | ------ | ------ | ------ |
 | 17:00 | [Shibina](../setlist/day1/01_shibina.md)| Level-X <br> やれんのかCrew | [@Shibina_](https://twitter.com/Shibina_) |
 | 17:30 | [Re:Xa](../setlist/day1/02_ReXa.md) |  | [@Lilly_anell94](https://twitter.com/Lilly_anell94) |
-| 18:00 | しんくまさん | テクノワールドREV.勢 | [@thin_kuma](https://twitter.com/thin_kuma) |
+| 18:00 | [しんくまさん](../setlist/day1/03_shinkuma.md) | テクノワールドREV.勢 | [@thin_kuma](https://twitter.com/thin_kuma) |
 | 18:30 | mitwa | | [@mtw_f](https://twitter.com/mtw_f) |
 | 19:00 | ビーツID:79724958 |  |  |
 | 19:30 | MiYAjY | M.E.L.Trackers | [@MiYAjY_quasar](https://twitter.com/MiYAjY_quasar) |
