@@ -15,7 +15,7 @@
 | 20:00 | [DJ Indigo](../setlist/day1/07_Indigo.md) | クロビナイト <br> Cafe de Game Music <br> 錦糸町音ゲーナイト| [@dj_indigovision](https://twitter.com/dj_indigovision) |
 | 20:30 | [カナヅチ](../setlist/day1/08_KNDT.md) | | [@kndt31](https://twitter.com/kndt31) |
 | 21:00 | [wand07](../setlist/day1/09_wand07.md)  | | [@wand07](https://twitter.com/wand07) |
-| 21:30 | yukai | | [@hope_09_25](https://twitter.com/hope_09_25) |
+| 21:30 | [yukai](../setlist/day1/10_yukai.md) | | [@hope_09_25](https://twitter.com/hope_09_25) |
 | 22:00 | dj suiso | SHOXXXX | [@suisostage](https://twitter.com/suisostage) |
 | 22:30 | おわこん | ANIGRE <br> 2D-iDOL-FESTiVAL!! | [@rimokon104867](https://twitter.com/rimokon104867) |
 | 23:00 | 赤宮リンド | | [@Rindo_tw3](https://twitter.com/Rindo_tw3) |
