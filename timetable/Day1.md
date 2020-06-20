@@ -10,7 +10,7 @@
 | 17:30 | [Re:Xa](../setlist/day1/02_ReXa.md) |  | [@Lilly_anell94](https://twitter.com/Lilly_anell94) |
 | 18:00 | [しんくまさん](../setlist/day1/03_shinkuma.md) | テクノワールドREV.勢 | [@thin_kuma](https://twitter.com/thin_kuma) |
 | 18:30 | [mitwa](../setlist/day1/04_mitwa.md) | | [@mtw_f](https://twitter.com/mtw_f) |
-| 19:00 | [ビーツID:79724958](../setlist/day1/05_79724958.md) |  |  |
+| 19:00 | [ビーツID:79724958](../setlist/day1/05_79724958.md) |  | [@Kung_fu_Empire](https://twitter.com/Kung_fu_Empire) |
 | 19:30 | [MiYAjY](../setlist/day1/06_MiYAjY.md) | M.E.L.Trackers | [@MiYAjY_quasar](https://twitter.com/MiYAjY_quasar) |
 | 20:00 | [DJ Indigo](../setlist/day1/07_Indigo) | クロビナイト <br> Cafe de Game Music <br> 錦糸町音ゲーナイト| [@dj_indigovision](https://twitter.com/dj_indigovision) |
 | 20:30 | [カナヅチ](../setlist/day1/08_KNDT.md) | | [@kndt31](https://twitter.com/kndt31) |
