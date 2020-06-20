@@ -6,7 +6,7 @@
 
 | Time  | DJ | Belongs To | Twitter |
 | ------ | ------ | ------ | ------ |
-| 17:00 | Shibina | Level-X <br> やれんのかCrew | [@Shibina_](https://twitter.com/Shibina_) |
+| 17:00 | [Shibina](/setlist/day1/01_shibina.md)| Level-X <br> やれんのかCrew | [@Shibina_](https://twitter.com/Shibina_) |
 | 17:30 | Re:Xa |  | [@Lilly_anell94](https://twitter.com/Lilly_anell94) |
 | 18:00 | しんくまさん | テクノワールドREV.勢 | [@thin_kuma](https://twitter.com/thin_kuma) |
 | 18:30 | mitwa | | [@mtw_f](https://twitter.com/mtw_f) |
