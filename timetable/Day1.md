@@ -17,7 +17,7 @@
 | 21:00 | [wand07](../setlist/day1/09_wand07.md)  | | [@wand07](https://twitter.com/wand07) |
 | 21:30 | [yukai](../setlist/day1/10_yukai.md) | | [@hope_09_25](https://twitter.com/hope_09_25) |
 | 22:00 | [dj suiso](../setlist/day1/11_djsuiso.md) | SHOXXXX | [@suisostage](https://twitter.com/suisostage) |
-| 22:30 | おわこん | ANIGRE <br> 2D-iDOL-FESTiVAL!! | [@rimokon104867](https://twitter.com/rimokon104867) |
+| 22:30 | [おわこん](../setlist/day1/12_owakon.md)  | ANIGRE <br> 2D-iDOL-FESTiVAL!! | [@rimokon104867](https://twitter.com/rimokon104867) |
 | 23:00 | 赤宮リンド | | [@Rindo_tw3](https://twitter.com/Rindo_tw3) |
 | 23:30 | ぶぶ | | [@aldente_bubu](https://twitter.com/aldente_bubu) |
 | 24:00 | 監督 | 哺乳綱食肉目 <br> レッサーパンダ科 <br> レッサーパンダ属 | [@\_mercier\_](https://twitter.com/_mercier_) |
