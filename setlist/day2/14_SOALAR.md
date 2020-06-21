@@ -18,5 +18,5 @@
 | 14  | Devil's Classic           | Tatsh                       | [Amazon](https://www.amazon.co.jp/dp/B01MU7Y8D3){:target="_blank"} |
 | 15  | angelik-vice              | void                        | [Amazon](https://www.amazon.co.jp/dp/B01MU7Y8D3){:target="_blank"} |
 | 16  | some day (instrumental)   | NAOKI                       | [Amazon](https://www.amazon.co.jp/dp/B01MU7Y8D3){:target="_blank"} |
-| 17  | SOMEDAY -00.prologue-     | T�F�`RA                     | [Amazon](https://www.amazon.co.jp/dp/B01MU7Y8D3){:target="_blank"} |
+| 17  | SOMEDAY -00.prologue-     | TЁЯRA                     | [Amazon](https://www.amazon.co.jp/dp/B01MU7Y8D3){:target="_blank"} |
 | 18  | İstanbul                  | REVen-G                     | [Amazon](https://www.amazon.co.jp/dp/B01MU7Y8D3){:target="_blank"} |
