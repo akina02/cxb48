@@ -3,7 +3,7 @@
 | No. | Music  | Artist | 主な購入・視聴URL |
 | ------ | ------ | ------ | ------ |
 |1| UNBELIEVABLE (Sparky remix) | jun feat. Sarah-Jane | [Amazon](https://www.amazon.co.jp/dp/B01B5B3PMW){:target="_blank"} |
-|2| Come Around (EXTENDED) | MesoPhunk | [beatport](https://www.beatport.com/track/stardust-japanese-version-tanuki-remix/6613631){:target="_blank"} |
+|2| Come Around (EXTENDED) | MesoPhunk | [beatport](https://www.beatport.com/track/stardust-japanese-version/6613625){:target="_blank"} |
 |3| Our Faith | kors k | [Amazon](https://www.amazon.co.jp/dp/B0002CHQGW) |
 |4| DAZZLING♡SEASON | jun | [Amazon](https://www.amazon.co.jp/dp/B01MU7Y8D3){:target="_blank"} |
 |5| LEMON SUMMER  | パイタン | [Amazon](https://www.amazon.co.jp/dp/B019RKIE4C){:target="_blank"} |

@@ -21,4 +21,4 @@
 | 23:00 | [赤宮リンド](../setlist/day1/13_akamiyarindo.md)) | | [@Rindo_tw3](https://twitter.com/Rindo_tw3) |
 | 23:30 | [ぶぶ](../setlist/day1/14_bubu.md) | | [@aldente_bubu](https://twitter.com/aldente_bubu) |
 | 24:00 | [監督](../setlist/day1/15_kantoku.md) | 哺乳綱食肉目 <br> レッサーパンダ科 <br> レッサーパンダ属 | [@\_mercier\_](https://twitter.com/_mercier_) |
-| 24:30 | あきな |  | [@akina_plus](https://twitter.com/akina_plus) |
+| 24:30 | [あきな](../setlist/day1/16_akina.md)|  | [@akina_plus](https://twitter.com/akina_plus) |
