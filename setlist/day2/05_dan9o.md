@@ -4,7 +4,7 @@
 |-----|-------------------------------------------|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1 | Satellite System ft.Diana Chiaki| Gratec Mour | [what'suppp](https://onlinestore.whatsuppp.com/items/23831319){:target="_blank"} |
 | 2 | Touch Of Gold | Togo Project feat. Frances Maya | [Amazon](https://www.amazon.co.jp/dp/B01MU7Y8D3){:target="_blank"} |
-| 3 | Human Nature| Z ping pong | [DIVERSE DIRECT](https://diverse.direct/zpptrax/zppt-002/){:target="_blank"} |
+| 3 | Human Nature| Z pinkpong | [DIVERSE DIRECT](https://diverse.direct/zpptrax/zppt-002/){:target="_blank"} |
 | 4 | Dreams Dreams (Disco NiGHTS Mix) OC ReMix | AkumajoBelmont, Level 99| [ocremix](https://ocremix.org/remix/OCR02259){:target="_blank"} |
 | 5 | GLOW| Shoichiro Hirata feat. Ellie| [Amazon](https://www.amazon.co.jp/dp/B01MU7Y8D3){:target="_blank"} |
 | 6 | Heartstrings| Nhato | [Amazon](https://www.amazon.co.jp/dp/B01MU7Y8D3){:target="_blank"} |
