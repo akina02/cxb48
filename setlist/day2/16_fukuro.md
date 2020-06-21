@@ -14,4 +14,4 @@
 | 10| Sunglow (Happy Hardcore Style) feat. ひうらまさこ | Yamajet | [Bandcamp](https://yamajet.bandcamp.com/track/sunglow-happy-hardcore-style-feat) |
 | 11| Crystal Ribbon (Extended Smelting) | Cosine| [Bandcamp](https://shop.attackthemusic.com/track/crystal-ribbon-extended-smelting) |
 | 12| Summer End Anthem| Personative | [TANO*C STORE](https://www.tanocstore.net/shopdetail/000000002101/)|
-| 13| Spica| Endorfin| [Bandcamp](https://endorfin31.bandcamp.com/track/spica)|
+| 13| Spica| Endorfin.| [Bandcamp](https://endorfin31.bandcamp.com/track/spica)|
