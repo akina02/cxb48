@@ -16,5 +16,5 @@
 | 12| Black Lotus | Maozon| [Amazon](https://www.amazon.co.jp/dp/B01MU7Y8D3){:target="_blank"} |
 | 13| Gekka(Original mix) | Nhato | [beatport](https://www.beatport.com/track/gekka-original-mix/10000043){:target="_blank"} |
 | 14| Phase Angel | OCOT| [Amazon](https://www.amazon.co.jp/dp/B01MU7Y8D3){:target="_blank"} |
-| 15| Fightting for Freedom | StripE| [Apple Music](https://music.apple.com/jp/album/energetic-trance-005-ep/290568890){:target="_blank"} |
+| 15| Fighting for Freedom | StripE| [Apple Music](https://music.apple.com/jp/album/energetic-trance-005-ep/290568890){:target="_blank"} |
 | 16| XXX-revolt| void feat. KOTOKO | [Amazon](https://www.amazon.co.jp/dp/B01MU7Y8D3){:target="_blank"} |
