@@ -6,7 +6,7 @@
 
 | Time  | DJ | Belongs To | Twitter |
 | ------ | ------ | ------ | ------ |
-| 17:00 | Tosh K. | BeatJunction <br> Flawless Beats!! <br> やれんのかcrew | [@Tizona_dEl_Cid](https://twitter.com/Tizona_dEl_Cid) |
+| 17:00 | [Tosh K.](../setlist/day2/01_tosh_k.md) | BeatJunction <br> Flawless Beats!! <br> やれんのかcrew | [@Tizona_dEl_Cid](https://twitter.com/Tizona_dEl_Cid) |
 | 17:30 | W8(だぼはち) |  | [@dabohachi](https://twitter.com/dabohachi) |
 | 18:00 | sdimax |  | [@sdimax765](https://twitter.com/sdimax765) |
 | 18:30 | FOR(ふぉる) | | [@Cis_dur](https://twitter.com/Cis_dur) |
