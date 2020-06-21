@@ -11,7 +11,7 @@
 | 18:00 | [sdimax ](../setlist/day2/03_sdimax.md)|  | [@sdimax765](https://twitter.com/sdimax765){:target="_blank"}  |
 | 18:30 | [FOR(ふぉる)](../setlist/day2/04_for.md) | | [@Cis_dur](https://twitter.com/Cis_dur){:target="_blank"}  |
 | 19:00 | [dan9o](../setlist/day2/05_dan9o.md) |  | [@tasu9dan9o](https://twitter.com/tasu9dan9o){:target="_blank"}   |
-| 19:30 | h41k4 | Flawless Beats!! | [@h41k4](https://twitter.com/h41k4){:target="_blank"}  |
+| 19:30 | [h41k4](../setlist/day2/06_h41k4.md) | Flawless Beats!! | [@h41k4](https://twitter.com/h41k4){:target="_blank"}  |
 | 20:00 | Kylria | Got temporary haven? | [@KylrIa](https://twitter.com/KylrIa){:target="_blank"}  |
 | 20:30 | ㇲ－ | | [@su_cxb](https://twitter.com/su_cxb){:target="_blank"}  |
 | 21:00 | KOH | | [@me_dkusi](https://twitter.com/me_dkusi){:target="_blank"}  |
