@@ -17,7 +17,7 @@
 | 21:00 | [KOH](../setlist/day2/09_KOH.md) | | [@me_dkusi](https://twitter.com/me_dkusi){:target="_blank"}  |
 | 21:30 | [ioreed(かにたま)](../setlist/day2/10_ioreed.md) | | [@CxBman_naniwa](https://twitter.com/CxBman_naniwa){:target="_blank"}  |
 | 22:00 | [火星帝王](../setlist/day2/11_kaseiteiou.md) | | [@kaseiteiou](https://twitter.com/kaseiteiou){:target="_blank"}  |
-| 22:30 | まさかず | | [@INY_S](https://twitter.com/INY_S){:target="_blank"}  |
+| 22:30 | [まさかず](../setlist/day2/12_masakazu.md) | | [@INY_S](https://twitter.com/INY_S){:target="_blank"}  |
 | 23:00 | みるきぃ | | [@milcky76573](https://twitter.com/milcky76573){:target="_blank"}  |
 | 23:30 | SOALAR | 8 Groove Records | [@SOALAR](https://twitter.com/SOALAR){:target="_blank"}  |
 | 24:00 | ひぃ / Hiy | INF HARDCORE Records ([@INFHARDCORE](https://twitter.com/INFHARDCORE)) | [@masyamusic](https://twitter.com/masyamusic){:target="_blank"}  |
