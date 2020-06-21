@@ -18,6 +18,6 @@
 | 14| Sweet Rain| Y&Co. feat. Karin | [Amazon](https://www.amazon.co.jp/jubeat-knit-ORIGINAL-SOUNDTRACK-%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%BB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF/dp/B003X0G8X2)|
 | 15| ANNIHILATER (Extended Mix)| HARXDistortion VS Hiy | 作曲者本人|
 | 16| Rapid Meteorite | HARXDistortion VS Hiy | [soundcloud](https://soundcloud.com/teraomegai/rapid-meteorite){:target="_blank"} |
-| 17| Oneirodynia | HARXDistortion VS Hiy | [TANO*C STORE](https://www.tanocstore.net/shopdetail/000000002490/Notebook_Records/page1/recommend/){:target="_blank"} |
+| 17| Oneirodynia | HARXDistortion VS Hiy | [TANO\*C STORE](https://www.tanocstore.net/shopdetail/000000002490/Notebook_Records/page1/recommend/){:target="_blank"} |
 | 18| ruin for you| Xeno Justitia | [Booth](https://inf.booth.pm/items/1871791){:target="_blank"} |
 | 19| Bright Freaks | Nasvy vs HARXDistortion | [Booth](https://booth.pm/ja/items/1662038){:target="_blank"} |
