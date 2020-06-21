@@ -19,7 +19,7 @@ DJ名をクリックするとセットリストに遷移します。
 | 21:30 | [yukai](../setlist/day1/10_yukai.md) | | [@hope_09_25](https://twitter.com/hope_09_25){:target="_blank"}  |
 | 22:00 | [dj suiso](../setlist/day1/11_djsuiso.md) | SHOXXXX | [@suisostage](https://twitter.com/suisostage){:target="_blank"}  |
 | 22:30 | [おわこん](../setlist/day1/12_owakon.md)  | ANIGRE <br> 2D-iDOL-FESTiVAL!! | [@rimokon104867](https://twitter.com/rimokon104867){:target="_blank"}  |
-| 23:00 | [赤宮リンド](../setlist/day1/13_akamiyarindo.md)) | | [@Rindo_tw3](https://twitter.com/Rindo_tw3){:target="_blank"}  |
+| 23:00 | [赤宮リンド](../setlist/day1/13_akamiyarindo.md) | | [@Rindo_tw3](https://twitter.com/Rindo_tw3){:target="_blank"}  |
 | 23:30 | [ぶぶ](../setlist/day1/14_bubu.md) | | [@aldente_bubu](https://twitter.com/aldente_bubu){:target="_blank"}  |
 | 24:00 | [監督](../setlist/day1/15_kantoku.md) | 哺乳綱食肉目 <br> レッサーパンダ科 <br> レッサーパンダ属 | [@\_mercier\_](https://twitter.com/_mercier_){:target="_blank"}  |
 | 24:30 | [あきな](../setlist/day1/16_akina.md)|  | [@akina_plus](https://twitter.com/akina_plus){:target="_blank"}  |

@@ -7,7 +7,7 @@
 |3| MY GIFTS | D-Crew | [Amazon](https://www.amazon.co.jp/dp/B0002CHQGW) |
 |4| 星座が恋した瞬間を。 | DJ TOTTO Feat. MarL | [Amazon](https://www.amazon.co.jp/dp/B07NBCYGMC){:target="_blank"} |
 |5| 前前前世(movie ver.)  | RADWIMPS | [Amazon](https://www.amazon.co.jp/dp/B01GJXSQBG/){:target="_blank"} |
-|6| sailing day  | BUMP OF CHIKEN | [bandcamp](https://www.amazon.co.jp/dp/B00008CHFG){:target="_blank"} |
+|6| sailing day  | BUMP OF CHICKEN | [bandcamp](https://www.amazon.co.jp/dp/B00008CHFG){:target="_blank"} |
 |7| LAST TRAIN | knotlamp | [Amazon](https://www.amazon.co.jp/dp/B01MU7Y8D3){:target="_blank"} |
 |8| シルエット | KANA-BOON | [Amazon](https://www.amazon.co.jp/dp/B00NWU1H8E){:target="_blank"} |
 |9| Tomorrow | 桜井零士 | [Amazon](https://www.amazon.co.jp/dp/B01MU7Y8D3){:target="_blank"} |
