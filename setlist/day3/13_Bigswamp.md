@@ -1,6 +1,7 @@
 # Bigswamp
 
-| No. | Music | Artist | 主な購入・試聴URL|--------------------------------------------------------------------------------------------------------------------|
+| No. | Music | Artist | 主な購入・試聴URL|
+|-----|-----------------------------------------------|--------------------|---------------------------------------------|
 | 1 | Human Nature (Extend Mix) | Zpinkpong | [Diverse Direct](https://diverse.direct/zpptrax/zppt-002/){:target="_blank"}         |
 | 2 | AQUALIGHT                 | MAYA AKAI | [Diverse Direct](https://diverse.direct/diverse-system/dvsp-0217/){:target="_blank"} |
 | 3 | SPLASH                    | MAYA AKAI | [Diverse Direct](https://diverse.direct/diverse-system/dvsp-0217/){:target="_blank"} |
