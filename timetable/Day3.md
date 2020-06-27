@@ -22,4 +22,4 @@ DJ名をクリックするとセットリストに遷移します。
 | 23:00 | [Bigswamp](../setlist/day3/13_Bigswamp.md) | SYNTH 1997　| [@dfk_ohnuma](https://twitter.com/dfk_ohnuma){:target="_blank"}  |
 | 23:30 | [Blau Erz](../setlist/day3/14_Blau_erz.md) | | [@erz_blau](https://twitter.com/erz_blau){:target="_blank"}  |
 | 24:00 | [がーべ](../setlist/day3/15_Gabe.md) | 快創音楽室 | [@Bell_staymen04](https://twitter.com/Bell_staymen04){:target="_blank"}  |
-| 24:30 | たっきゅそ | | [@taxyuso](https://twitter.com/taxyuso){:target="_blank"}  |
+| 24:30 | [たっきゅそ](../setlist/day3/16_taxyuso.md) | | [@taxyuso](https://twitter.com/taxyuso){:target="_blank"}  |
