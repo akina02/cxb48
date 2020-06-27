@@ -1,0 +1,19 @@
+# ヘイボン
+
+| No. | Music                                      | Artist                                     | 主な購入・試聴URL                                                                                                     |
+|-----|--------------------------------------------|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| 1   | 七彩ボタン [M@STER VERSION]                 | 竜宮小町 (釘宮理恵, たかはし智秋, 下田麻美) | [Amazon](https://www.amazon.co.jp/IDOLM-STER-ANIM-MASTER-%E7%94%9F%E3%81%A3%E3%81%99%E3%81%8BSPECIAL/dp/B0088LOFIQ){:target="_blank"}  |
+| 2   | Colorful Days ～Newラブプラス メインテーマ～ | 高嶺愛花&小早川凛子&姉ヶ崎寧々                | [Amazon](https://www.amazon.co.jp/REFLEC-colette-ORIGINAL-SOUNDTRACK-VOL-1/dp/B01AVZBZ66){:target="_blank"}                            |
+| 3   | Summer Days ( Vocal Radio Mix )            | Gratec Mour                                | [what'suppp](https://onlinestore.whatsuppp.com/items/23831319){:target="_blank"}                                                       |
+| 4   | Centerfold                                 | Captain Jack                               | [Amazon](https://www.amazon.co.jp/gp/product/B0124WUADS/ref=dm_ws_sp_ps_dp){:target="_blank"}                                          |
+| 5   | Taking It To The Sky feat. Tammy S. Hansen | U1                                         | [Amazon](https://www.amazon.co.jp/gp/product/B01AVWQYDI/ref=dm_ws_sp_ps_dp){:target="_blank"}                                          |
+| 6   | Here comes the sun ?For you?(Extend Mix)   | Zpinkpong                                  | [DIVERSE DIRECT](https://diverse.direct/zpptrax/zppt-002/){:target="_blank"}                                                           |
+| 7   | W.P.A (Bonus Track)                        | RAM                                        | [0.0.1の初回限定版のため、現在生産終了](http://nnn-records.com/RAM/0-0-1){:target="_blank"}                                                                                                 |
+| 8   | Iroha                                      | Ryunosuke Kudo                             | [Amazon](https://www.amazon.co.jp/dp/B01MU7Y8D3){:target="_blank"}                                                                          |
+| 9   | Stardust (Japanese Version)                | Minikoma☆                                 | [Bandcamp](https://shop.attackthemusic.com/album/stardust){:target="_blank"}                                                           |
+| 10  | Resonance (Long Ver.)                      | RAM                                        | [Amazon](https://www.amazon.co.jp/gp/product/B07JBRQGCV/ref=dm_ws_sp_ps_dp){:target="_blank"}                                          |
+| 11  | S.E.Q                                      | RAM                                        | [what'suppp](https://onlinestore.whatsuppp.com/items/9099116){:target="_blank"}                                                        |
+| 12  | Always Rave With You feat. Yukacco         | KO3 & Relect                               | [Bandcamp](https://tanoc.bandcamp.com/album/ko3-relect){:target="_blank"}                                                              |
+| 13  | Come Around (EXTENDED)                     | MesoPhunk                                  | [Bandcamp](https://shop.attackthemusic.com/album/mesophunk-ep){:target="_blank"}                                                       |
+| 14  | Can't Stop Raving (Original mix)           | KO3 & Getty feat.TEA                       | [Bandcamp](https://kirararecords.bandcamp.com/track/cant-stop-raving-original-mix){:target="_blank"}                                   |
+| 15  | starmine (Relect Remix)                    | HANABI                                     | [Amazon](https://www.amazon.co.jp/gp/product/B01JLZFDWY/ref=dm_ws_sp_ps_dp){:target="_blank"}                                          |

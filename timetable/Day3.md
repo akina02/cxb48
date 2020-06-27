@@ -11,7 +11,7 @@ DJ名をクリックするとセットリストに遷移します。
 | 17:30 | [るいーに](../setlist/day3/02_1ouis.md) | 快創音楽室 | [@1ouis](https://twitter.com/1ouis){:target="_blank"}  |
 | 18:00 | [ZALM.K](../setlist/day3/03_ZALM_K.md) |  | [@alm_rigzald](https://twitter.com/alm_rigzald){:target="_blank"}  |
 | 18:30 | [碧蒼](../setlist/day3/04_hekisei.md) | | [@ibento_tanoc_na](https://twitter.com/ibento_tanoc_na){:target="_blank"}  |
-| 19:00 | ヘイボン |  | [@he_pon360](https://twitter.com/he_pon360){:target="_blank"}  |
+| 19:00 | [ヘイボン](../setlist/day3/05_heybon.md) |  | [@he_pon360](https://twitter.com/he_pon360){:target="_blank"}  |
 | 19:30 | peczero |  | [@peczero](https://twitter.com/peczero){:target="_blank"}  |
 | 20:00 | nnousekAnkAn | SHOXXXX | [@\_\_\_nnunn\_\_\_](https://twitter.com/___nnunn___){:target="_blank"}  |
 | 20:30 | ScaLL | BouncY <br> アニふぇすKOFU | [@DR_Calcium](https://twitter.com/DR_Calcium){:target="_blank"}  |
