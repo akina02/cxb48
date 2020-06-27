@@ -15,7 +15,7 @@ DJ名をクリックするとセットリストに遷移します。
 | 19:30 | [peczero](../setlist/day3/06_peczero.md) |  | [@peczero](https://twitter.com/peczero){:target="_blank"}  |
 | 20:00 | [nnousekAnkAn](../setlist/day3/07_nnousekAnkAn.md) | SHOXXXX | [@\_\_\_nnunn\_\_\_](https://twitter.com/___nnunn___){:target="_blank"}  |
 | 20:30 | [SCaLL](../setlist/day3/08_SCaLL.md) | BouncY <br> アニふぇすKOFU | [@DR_Calcium](https://twitter.com/DR_Calcium){:target="_blank"}  |
-| 21:00 | LV77 aka ユタカ | SHOXXXX <br> HEADPHONE JACK | [@yutaka_lv77](https://twitter.com/yutaka_lv77){:target="_blank"} |
+| 21:00 | [LV77 aka ユタカ](../setlist/day3/09_lv77.md) | SHOXXXX <br> HEADPHONE JACK | [@yutaka_lv77](https://twitter.com/yutaka_lv77){:target="_blank"} |
 | 21:30 | Xeria | wavforme | [@Xeria_7](https://twitter.com/Xeria_7){:target="_blank"}  |
 | 22:00 | K G | | [@king_eaa04](https://twitter.com/king_eaa04){:target="_blank"}  |
 | 22:30 | やー | クロビナイト | [@yah_pnz](https://twitter.com/yah_pnz){:target="_blank"}  |
