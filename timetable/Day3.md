@@ -18,7 +18,7 @@ DJ名をクリックするとセットリストに遷移します。
 | 21:00 | [LV77 aka ユタカ](../setlist/day3/09_lv77.md) | SHOXXXX <br> HEADPHONE JACK | [@yutaka_lv77](https://twitter.com/yutaka_lv77){:target="_blank"} |
 | 21:30 | [Xeria](../setlist/day3/10_Xeria.md) | wavforme | [@Xeria_7](https://twitter.com/Xeria_7){:target="_blank"}  |
 | 22:00 | [ＫＧ](../setlist/day3/11_KG.md) | | [@king_eaa04](https://twitter.com/king_eaa04){:target="_blank"}  |
-| 22:30 | やー | クロビナイト | [@yah_pnz](https://twitter.com/yah_pnz){:target="_blank"}  |
+| 22:30 | [やー](../setlist/day3/12_yah.md) | クロビナイト | [@yah_pnz](https://twitter.com/yah_pnz){:target="_blank"}  |
 | 23:00 | Bigswamp | SYNTH 1997　| [@dfk_ohnuma](https://twitter.com/dfk_ohnuma){:target="_blank"}  |
 | 23:30 | Blau Erz | | [@erz_blau](https://twitter.com/erz_blau){:target="_blank"}  |
 | 24:00 | がーべ | 快創音楽室 | [@Bell_staymen04](https://twitter.com/Bell_staymen04){:target="_blank"}  |
